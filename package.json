@@ -1,0 +1,25 @@
+{
+  "name": "ocean_claim",
+  "version": "1.0.0",
+  "description": "## JANGAN LUPA JOIN https://layerairdrop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mysten/sui.js": "0.37.1",
+    "@scallop-io/sui-kit": "^0.45.0",
+    "axios": "^1.7.1",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "crypto-js": "^4.2.0",
+    "esm": "^3.2.25",
+    "figlet": "^1.7.0",
+    "node-telegram-bot-api": "^0.63.0",
+    "request": "2.88.2",
+    "tough-cookie": "^4.1.4"
+  },
+  "keywords": [],
+  "author": "LayerAirdrop",
+  "license": "ISC"
+}
